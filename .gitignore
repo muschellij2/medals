@@ -4,3 +4,5 @@
 .Ruserdata
 .DS_Store
 vignettes/medals_vignette_cache/*
+inst/.DS_Store
+vignettes/.DS_Store
